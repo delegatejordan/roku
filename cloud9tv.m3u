@@ -1,0 +1,472 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p962_1_orig.png" group-title="USA TV", ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+
+#EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1411_orig.png" group-title="USA TV", ABC
+http://46.166.184.37:8554/trap/abc/playlist.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-id="ABCNews24.au" tvg-name="ABC 24" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p1012_orig.png" group-title="Australia / New Zealand TV", ABC 24 News
+http://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/index_750_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="A&E" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p972_1_orig.png" group-title="USA TV", A&E
+http://46.166.184.37:8554/trap/AandE/playlist.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1365_orig.png" group-title="USA TV", AMC
+http://46.166.184.37:8554/trap/amc/playlist.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Uno" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1233_orig.png" group-title="TV Latino", Azteca Uno
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1362_orig.png" group-title="TV Latino", Azteca 7
+http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/master.m3u8
+
+#EXTINF:-1 tvg-id="Azteca13.mx" tvg-name="Azteca Trece" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p1000_1_orig.png" group-title="TV Latino", Azteca Trece
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_2_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="AztecaCinema.mx" tvg-name="Azteca Cinema" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p1004_orig.png" group-title="TV Latino", Azteca Cinema
+http://vivoplay-i.akamaihd.net/hls/live/255328/canal9/master2500k.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Aljazeera" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p998_1_orig.png" group-title="International TV", Aljazeera
+https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
+
+#EXTINF:-1 tvg-id="AztecaNoticias.mx" tvg-name="Azteca Noticias" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p1005_orig.png" group-title="TV Latino", Azteca Noticias
+http://cdnapi.kaltura.com/p/459791/sp/45979100/playManifest/entryId/0_qeij0bji/format/applehttp/protocol/http/uiConfId/38613461/a.m3u8?referrer=aHR0cDovL3d3dy5henRlY2Fub3RpY2lhcy5jb20ubXg=&playSessionId=a0f0da1d-c162-b282-418e-134ef8df3efd
+
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p1001_1_orig.png" group-title="USA TV", Animal Planet OFFLINE
+http://cloud9tv.click/AnimalPlanet.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBC World News" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p961_1_orig.png" group-title="UK TV", BBC World News
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBC News" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1346_orig.png" group-title="UK TV", BBC News
+http://cloud9tv.click/BBC-News.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="Bloomberg" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p999_1_orig.png" group-title="USA TV", Bloomberg
+https://mediaeuwest.akamaized.net/btv/desktop/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Bravo" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1413_orig.png" group-title="USA TV", Bravo
+http://46.166.184.37:8554/trap/bravo/playlist.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1280_orig.png" group-title="TV Latino", Caracol
+http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
+
+#EXTINF:-1 tvg-id="CBCNews.ca" tvg-name="CBC News Network" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p959_1_orig.png" group-title="Canada TV", CBC News Network
+https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CBC News The National" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1358_orig.png" group-title="Canada TV", CBC News The National
+http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+
+#EXTINF:-1 tvg-id="CBC.ca" tvg-name="CBC TV" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1234_orig.png" group-title="Canada TV", CBC TV
+https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CBC Calgary" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1380_orig.png" group-title="Canada TV", CBC Calgary
+https://cbclivedai4-i.akamaihd.net/hls/live/567230-b/event2/CBRT/master5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CBC Charlottetown" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1374_orig.png" group-title="Canada TV", CBC Charlottetown
+https://cbclivedai6-i.akamaihd.net/hls/live/567239-b/event2/CBCT/master5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CBC Edmonton" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1373_orig.png" group-title="Canada TV", CBC Edmonton
+https://cbclivedai4-i.akamaihd.net/hls/live/567231-b/event2/CBXT/master5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CBC Fredericton" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1381_orig.png" group-title="Canada TV", CBC Fredericton
+https://cbclivedai7-i.akamaihd.net/hls/live/567244-b/event2/CBAT/master5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CBC Halifax" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1375_orig.png" group-title="Canada TV", CBC Halifax
+https://cbclivedai3-i.akamaihd.net/hls/live/566977-b/event2/CBHT/master5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CBC Montreal" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1378_orig.png" group-title="Canada TV", CBC Montreal
+https://cbclivedai3-i.akamaihd.net/hls/live/566976-b/event2/CBMT/master5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CBC Ottawa" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1382_orig.png" group-title="Canada TV", CBC Ottawa
+https://cbclivedai5-i.akamaihd.net/hls/live/567235-b/event2/CBOT/master5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CBC Regina" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1371_orig.png" group-title="Canada TV", CBC Regina
+https://cbclivedai2-i.akamaihd.net/hls/live/566969-b/event2/CBKT/master5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CBC St. Johns" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1376_orig.png" group-title="Canada TV", CBC St. Johns
+https://cbclivedai1-i.akamaihd.net/hls/live/567236-b/event2/CBNT/master5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CBC Toronto" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1379_orig.png" group-title="Canada TV", CBC Toronto
+https://cbclivedai1-i.akamaihd.net/hls/live/566940-b/event2/CBLT/master5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CBC Vancouver" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1383_orig.png" group-title="Canada TV", CBC Vancouver
+https://cbclivedai1-i.akamaihd.net/hls/live/566968-b/event2/CBUT/master5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CBC Windsor" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1377_orig.png" group-title="Canada TV", CBC Windsor
+https://cbclivedai1-i.akamaihd.net/hls/live/566941-b/event2/CBET/master5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CBC Winnipeg" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1372_orig.png" group-title="Canada TV", CBC Winnipeg
+https://cbclivedai6-i.akamaihd.net/hls/live/567237-b/event2/CBWT/master5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CBC Yellowknife" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1384_orig.png" group-title="Canada TV", CBC Yellowknife
+https://cbclivedai7-i.akamaihd.net/hls/live/567240-b/event2/CFYK/master5.m3u8
+
+#EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1412_orig.png" group-title="USA TV", CBS
+http://46.166.184.37:8554/trap/cbs/playlist.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-id="" tvg-name="CBSN" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1416_orig.png" group-title="USA TV", CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CBS Sports HQ" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1369_orig.png" group-title="USA TV", CBS Sports HQ
+https://cbssportsdc-i.akamaihd.net/hls/live/518856/dc_1/desktop.m3u8
+
+#EXTINF:-1 tvg-id="CHCH.ca" tvg-name="CHCH" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p1140_orig.png" group-title="Canada TV", CHCH
+https://playback.bcovlive.io/de75f0915ed24d95b904857ce535ac39/us-west-2/5644964886001/profile_1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Classic Arts Showcase" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p978_1_orig.png" group-title="USA TV", Classic Arts Showcase
+http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p979_1_orig.png" group-title="USA TV", CNN
+http://149.56.26.63:1935/livenewson/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1368_orig.png" group-title="USA TV", CNBC
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?
+
+#EXTINF:-1 tvg-id="CAPAN.us" tvg-name="C-Span" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p988_1_orig.png" group-title="USA TV", C-Span
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?
+
+#EXTINF:-1 tvg-id="CSPAN2.us" tvg-name="C-Span 2" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p987_1_orig.png" group-title="USA TV", C-Span 2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
+
+#EXTINF:-1 tvg-id="CSPAN3.us" tvg-name="C-Span 3" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p986_1_orig.png" group-title="USA TV", C-Span 3
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="C7 Jalisco" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1335_orig.png" group-title="TV Latino", C7 Jalisco
+http://streamingcws10.com:1935/c7noticias/videoc7noticias/chunklist_w48198864_DVR.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChanel.ca" tvg-name="Discovery" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p965_1_orig.png" group-title="USA TV", Discovery Channel
+https://uk-20g.firstonetv.net:4434/hls/2b00b3e2555bce2d50f42be2da789c43/1522396450/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352d35392d3232312d3135332e6d6264722e63662f7032702f61343930616537356133656332616366313663396635393265383839656234632e6d3375383f73743d57386e4a6162517a55616b454f755f416e4458376d5126653d31353232343130383530.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1407_orig.png" group-title="USA TV", Disney Channel
+https://uk-20g.firstonetv.net:4434/hls/8cefa7c395a6af11c71d4f71b9d35ce1/1522382070/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352d35392d3232312d3135362e6d6264722e63662f7032702f31346237643365646634316262613535616562643339323534653361303130302e6d3375383f73743d484d70415545435f726c7254497a794a4a3438486b6726653d31353232333936343730.m3u8
+
+#EXTINF:-1 tvg-id="ForoTv.mx" tvg-name="Foro TV" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p981_1_orig.png" group-title="TV Latino", Foro TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Freeform" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1410_orig.png" group-title="USA TV", Freeform
+http://46.166.184.37:8554/trap/freeform/playlist.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-id="" tvg-name="FYI" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1415_orig.png" group-title="USA TV", FYI
+http://46.166.184.37:8554/trap/fyi/playlist.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-id="FoxBusiness.us" tvg-name="Fox Business Network HD" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p952_1_orig.png" group-title="USA TV", Fox Business Network HD
+http://fbntve-i.akamaihd.net/hls/live/200667/fbntve/HD.m3u8
+
+#EXTINF:-1 tvg-id="FoxNews.us" tvg-name="Fox News Channel HD" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p983_1_orig.png" group-title="USA TV", Fox News Channel HD
+http://fnctve-i.akamaihd.net/hls/live/200669/fnctve/HD.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FXX" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1408_orig.png" group-title="USA TV", FXX
+http://46.166.184.37:8554/trap/fxx/playlist.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-id="Global.ca" tvg-name="Global Toronto" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p971_1_orig.png" group-title="Canada TV", Global Toronto
+http://cloud9tv.click/Global-Toronto.m3u8
+
+#EXTINF:-1 tvg-id="Global.ca" tvg-name="Global Edmonton" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p1016_orig.png" group-title="Canada TV", Global Edmonton
+https://glblvedmonton-lh.akamaihd.net/i/glblvEdmonton_1@119844/master.m3u8?
+
+#EXTINF:-1 tvg-id="GlobalHalifaxCIHF.ca" tvg-name="Global Halifax" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p1014_orig.png" group-title="Canada TV", Global Halifax
+https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8?
+
+#EXTINF:-1 tvg-id="GlobalBC.ca" tvg-name="Global BC" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p1015_orig.png" group-title="Canada TV", Global BC
+https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-name="Hallmark" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1418_orig.png" group-title="USA TV", Hallmark Movies and Mysteries
+http://46.166.184.37:8554/trap/hallmark/playlist.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p1002_orig.png" group-title="USA TV", HGTV
+http://46.166.184.37:8554/trap/hgtv/playlist.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-id="" tvg-name="Hit Music Channel" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1414_orig.png" group-title="USA TV", Hit Music Channel
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IndieWave" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1419_orig.png" group-title="USA TV", IndieWave
+https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="Investigation Discovery" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p960_1_orig.png" group-title="USA TV", Investigation Discovery
+https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e348012/h.m3u8?pbs=a089fc6c8ffc42d081b85ba79b60ab56
+
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1349_orig.png" group-title="UK TV", ITV
+https://itvliveevents-i.akamaihd.net/hls/live/203496/itvliveevents/ITVEVTMN/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Kartoon Funtime Network" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1406_orig.png" group-title="USA TV", Kartoon Funtime Network
+http://151.80.20.150:1935/kartoon/kartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p953_1_orig.png" group-title="TV Latino", Las Estrellas
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1409_orig.png" group-title="USA TV", Lifetime
+http://46.166.184.37:8554/trap/lifetime/playlist.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p964_1_orig.png" group-title="USA TV", MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p985_1_orig.png" group-title="USA TV", MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1344_orig.png" group-title="USA TV", NBC
+http://cloud9tv.click/NBC.m3u8
+
+#EXTINF:-1 tvg-id="Newsmax.us" tvg-name="Newsmax TV" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p982_1_orig.png" group-title="USA TV", Newsmax TV
+https://cdnapisec.kaltura.com/p/2216081/sp/221608100/playManifest/entryId/1_f19eeulz/format/applehttp/protocol/https/uiConfId/38760741/a.m3u8?referrer=aHR0cDovL3d3dy5uZXdzbWF4dHYuY29t&playSessionId=0df06033-1d12-724a-fc2c-8daa1016b8c0
+
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1417_orig.png" group-title="USA TV", Nickelodeon
+http://46.166.184.37:8554/trap/nickusa/playlist.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-id="" tvg-name="NFL Now" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p977_1_orig.png" group-title="USA TV", NFL Now
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Ocho TV" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p1006_orig.png" group-title="TV Latino", Ocho TV
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+
+#EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1336_orig.png" group-title="USA TV", QVC
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="RedBull TV" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1390_orig.png" group-title="USA TV", RedBull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="RT America" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p967_1_orig.png" group-title="USA TV", RT America
+https://secure-streams.akamaized.net/rt-usa/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p984_1_orig.png" group-title="UK TV", Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Spydar TV" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1400_orig.png" group-title="USA TV", Spydar TV
+http://104.131.55.9:8081/dashtv/spydartv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Stadium" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1391_orig.png" group-title="USA TV", Stadium
+https://04476b7c682c4da8b8b4bfe23ef879c1.midas.us-east-1.amazonaws.com/v1/master/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/hls/live/522512/mux_4/master.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p980_1_orig.png" group-title="TV Latino", Telemundo
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Three" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p1013_orig.png" group-title="Australia / New Zealand TV", Three
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p1003_orig.png" group-title="USA TV", TLC
+https://uk-20g.firstonetv.net:4434/hls/cb74b523cf2ef3eb1346e1a7d6e3162e/1522396529/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352d35392d3232312d3135362e6d6264722e63662f7032702f31653834356463623437376531336630306235623230326133646266666264652e6d3375383f73743d30766e2d4257576e77683970356b4335546c46437a7726653d31353232343130393239.m3u8
+
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p995_1_orig.png" group-title="International TV", TRT World
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+#EXTINF:-1 tvg-id="TheShoppingChannel.ca" tvg-name="The Shopping Channel" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p955_1_orig.png" group-title="Canada TV", The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+
+#EXTINF:-1 tvg-id="TheWeatherNetwork.ca" tvg-name="The Weather Network HD" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p957_1_orig.png" group-title="Canada TV", The Weather Network HD OFFLINE
+https://bcsecurelivehls-i.akamaihd.net/hls/live/261940/1942203455001/nat/master.m3u8
+
+#EXTINF:-1 tvg-id="WeatherChannel.us" tvg-name="The Weather Channel" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p991_1_orig.png" group-title="USA TV", The Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+#EXTINF:-1 tvg-id="TVSN.nz" tvg-name="TVSN" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p1011_orig.png" group-title="Australia / New Zealand TV", TVSN
+http://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8
+
+#EXTINF:-1 tvg-id="WeatherNation.us" tvg-name="Weather Nation" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p990_1_orig.png" group-title="USA TV", Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8?referrer=aHR0cDovL3d3dy50aG9ybnRvbndlYXRoZXIuY29t&playSessionId=4b35b8be-5eb6-d83e-c7be-2d4acc49424f
+
+#EXTINF:-1 tvg-id="YesTV.ca" tvg-name="Yes TV Alberta" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1232_orig.png" group-title="Canada TV", YES TV Alberta
+http://stream-live-edge-a01.crossroadscloud.com:8081/yestv-ab-c-multibit/yestv-ab-c-multibit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YesTV.ca" tvg-name="Yes TV Ontario" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1231_orig.png" group-title="Canada TV", YES TV Ontario
+http://stream-live-edge-a02.crossroadscloud.com:8081/yestv-ont-multibit/yestv-ont-multibit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YTN.kr" tvg-name="YTN" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p989_1_orig.png" group-title="International TV", YTN
+http://slive.ytn.co.kr:1935/ytn/ylivehd_20140419_1/chunklist_w237527385.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Disclaimer" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1366_orig.png" group-title="Support", Disclaimer
+http://cloud9tv.click/disclaimer.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Support" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1367_orig.png" group-title="Support", Support
+http://cloud9tv.click/help.mp4
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Xmas Fireplace" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p969_1_orig.png" group-title="24/7", Xmas Fireplace
+http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Aquarium" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1402_orig.png" group-title="24/7", 24/7 Aquarium
+http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
+
+ 
+ 
+ 
+ 
+
+#EXTINF:-1 tvg-id="" tvg-name="NBC 13" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1337_orig.png" group-title="USA TV LOCAL", NBC 13 (Albany)
+http://api.new.livestream.com/accounts/12240447/events/3818578/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="KXAN" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1318_orig.png" group-title="USA TV LOCAL", KXAN (Austin)
+https://api.new.livestream.com/accounts/1506296/events/1569171/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBC 11" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1312_orig.png" group-title="USA TV LOCAL", NBC 11 (Bay Area)
+http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="KTVU" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1314_orig.png" group-title="USA TV LOCAL", KTVU FOX 2 (Bay Area)
+http://play-prod1.live.anvato.net/server/play/ktvutestctg/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="WBZ 4" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1316_orig.png" group-title="USA TV LOCAL", CBS 4 (Boston)
+http://cbslocaltv-i.akamaihd.net/hls/live/221461/WBZTV/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="News 12 BX" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1306_orig.png" group-title="USA TV LOCAL", News 12 (The Bronx)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
+
+#EXTINF:-1 tvg-id="" tvg-name="News 12 KN" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1307_orig.png" group-title="USA TV LOCAL", News 12 (Brooklyn)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
+
+#EXTINF:-1 tvg-id="" tvg-name="WCCB" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1290_orig.png" group-title="USA TV LOCAL", WCCB (Charlotte)
+http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBC 5" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1291_orig.png" group-title="USA TV LOCAL", NBC 5 (Chicago)
+http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="WGN 9" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1293_orig.png" group-title="USA TV LOCAL", WGN 9 (Chicago)
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CBS 5" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1295_orig.png" group-title="USA TV LOCAL", CBS 5 (Colorado)
+http://krex-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="WVIT 30" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1296_orig.png" group-title="USA TV LOCAL", WVIT 30 (Hartford)
+http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="News 12 HV" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1308_orig.png" group-title="USA TV LOCAL", News 12 (Hudson Valley)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC
+
+#EXTINF:-1 tvg-id="" tvg-name="CBS 4" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1298_orig.png" group-title="USA TV LOCAL", CBS 4 (Indianapolis)
+http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CBS 47 FL" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1300_orig.png" group-title="USA TV LOCAL", CBS 47 (Jacksonville)
+http://cmghlslive-i.akamaihd.net:80/hls/live/224714/WJAX/904k/prog.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="News 12 LI" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1310_orig.png" group-title="USA TV LOCAL", News 12 (Long Island)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
+
+#EXTINF:-1 tvg-id="" tvg-name="KCAL 9 LA" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1301_orig.png" group-title="USA TV LOCAL", KCAL 9 (Los Angeles)
+http://play-prod1.live.anvato.net/server/play/cbslocal-kcal-dfp/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CBS 3 MG" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1302_orig.png" group-title="USA TV LOCAL", CBS 3 (Michigan)
+http://wjmn-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="WXXV 25" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1303_orig.png" group-title="USA TV LOCAL", WXXV 25 (Mississipi)
+http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CBS 2 NY" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1304_orig.png" group-title="USA TV LOCAL", CBS 2 (New York)
+http://play-prod1.live.anvato.net/server/play/cbslocal-wcbsx-dfp/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NC21 OR" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1305_orig.png" group-title="USA TV LOCAL", News Channel 21 (Oregon)
+http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ABC 9 OL" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1309_orig.png" group-title="USA TV LOCAL", ABC 9 (Orlando)
+http://cmghlslive-i.akamaihd.net/hls/live/224711/WFTV/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBC 10 PD" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1311_orig.png" group-title="USA TV LOCAL", NBC 10 (Philadelphia)
+http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CBS 2 SLC" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1304_orig.png" group-title="USA TV LOCAL", CBS 2 (Salt Lake City)
+http://ktvx-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="KOB 4 SF" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1313_orig.png" group-title="USA TV LOCAL", KOB 4 (Santa Fe)
+https://api.new.livestream.com/accounts/10066184/events/3399986/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CBS 14 ST" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1315_orig.png" group-title="USA TV LOCAL", CBS 13 (Stockton)
+http://play-prod1.live.anvato.net/server/play/cbslocal-kovrx-dfp/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox 5 DC" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1317_orig.png" group-title="USA TV LOCAL", Fox 5 (Washington DC)
+https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBC 4 DC" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1319_orig.png" group-title="USA TV LOCAL", NBC 4 (Washington DC)
+https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="KTLA5 LA" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1347_orig.png" group-title="USA TV LOCAL", KTLA5 (Los Angeles)
+https://api.new.livestream.com/accounts/9262780/events/3189705/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="WishTV8 IN" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1345_orig.png" group-title="USA TV LOCAL", WishTV 8 (Indianapolis)
+https://api.new.livestream.com/accounts/1858612/events/1647951/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ABC Denver" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1388_orig.png" group-title="USA TV LOCAL", ABC 7 (Denver)
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-name="ABC Colorado Springs" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1389_orig.png" group-title="USA TV LOCAL", ABC News Channel 13 (Colorado Springs)
+https://api.new.livestream.com/accounts/17592934/events/4828171/live.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="The Boss Baby" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1393_orig.png" group-title="Movie Library", The Boss Baby
+https://bobmovies.net/hl/The_Boss_Baby_2017_WEB-DL.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1394_orig.png" group-title="Movie Library", Coco
+https://bobmovies.net/hl/Coco.2017.DVDScr.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Emoji Movie" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1395_orig.png" group-title="Movie Library", The Emoji Movie
+https://bobmovies.net/hl/The_Emoji_Movie_2017.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Jumanji" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1392_orig.png" group-title="Movie Library", Jumanji
+https://bobmovies.net/hl/Jumanji_2018_HDTS.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="War for the Planet of the Apes" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1396_orig.png" group-title="Movie Library", War for the Planet of the Apes
+https://bobmovies.net/hl/War.For.The.Planet.Of.The.Apes.2017nn.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Blade Runner" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1356_orig.png" group-title="Movie Library", Blade Runner 2049
+https://bobmovies.net/hl/Blade_Runner_2049_TS.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="American Made" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1355_orig.png" group-title="Movie Library", American Made
+https://bobmovies.net/hl/American_Made2017_2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FLATLINERS" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1357_orig.png" group-title="Movie Library", FLATLINERS
+https://bobmovies.net/hl/Flatliners.2017.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Baywatch" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1351_orig.png" group-title="Movie Library", Baywatch
+https://bobmovies.net/hl/Baywatch_2017_1080p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Downsizing" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1341_orig.png" group-title="Movie Library", Downsizing
+https://bobmovies.net/hl/Downsizing.2017.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Finding Dory" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1320_orig.png" group-title="Movie Library", Finding Dory
+https://bobmovies.net/hl/Finding_Dory_2016.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Frozen" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1322_orig.png" group-title="Movie Library", Frozen
+https://bobmovies.net/hl/Frozen.2013.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Fun Mom Dinner" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1331_orig.png" group-title="Movie Library", Fun Mom Dinner
+https://bobmovies.net/hl/Fun_Mom_Dinner_2017.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Geostorm" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1325_orig.png" group-title="Movie Library", Geostorm
+https://bobmovies.online/hl/Geostorm.2017HDRip.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Interstellar" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1332_orig.png" group-title="Movie Library", Interstellar
+https://bobmovies.net/hl/Interstellar_2014.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="It" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1329_orig.png" group-title="Movie Library", It
+https://bobmovies.net/hl/IT.2017.EBRip.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LEGO Batman" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1328_orig.png" group-title="Movie Library", LEGO Batman Movie
+https://bobmovies.net/hl/The.LEGO.Batman.Movie.2017.1080p.BluRay.x264.VPPV.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NAKED" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1352_orig.png" group-title="Movie Library", NAKED
+https://bobmovies.net/hl/Naked_2017_WEBRip.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Now You See Me" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1350_orig.png" group-title="Movie Library", Now You See Me
+https://bobmovies.net/hl/Now.You.See.Me.2013.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Now You See Me 2" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1330_orig.png" group-title="Movie Library", Now You See Me 2
+https://bobmovies.net/hl/Now.You.See.Me.2.2016.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Paddington" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1321_orig.png" group-title="Movie Library", Paddington (ESP)
+https://bobmovies.net/hl/Paddingto080prRix264.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="San Andreas" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1326_orig.png" group-title="Movie Library", San Andreas
+https://bobmovies.net/bm/San_Andreas_2015.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Spiderman Homecoming" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1333_orig.png" group-title="Movie Library", Spiderman Homecoming
+https://bobmovies.net/hl/Spider_Man_Homecoming_2017.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Circle" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1353_orig.png" group-title="Movie Library", The Circle
+https://bobmovies.net/hl/The_Circle_2017_1080p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Secret Life Of Walter Mitty" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1323_orig.png" group-title="Movie Library", The Secret Life Of Walter Mitty
+https://bobmovies.net/hl/The.Secret.Life.of.Walter.Mitty.2013new.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Thor Ragnarok" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1327_orig.png" group-title="Movie Library", Thor Ragnarok
+https://bobmovies.net/hl/Thor.Ragnarok.2017.web.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Wonder Woman" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1354_orig.png" group-title="Movie Library", Wonder Woman
+https://bobmovies.net/hl/Wonder_Woman_2017.m3u8
+
